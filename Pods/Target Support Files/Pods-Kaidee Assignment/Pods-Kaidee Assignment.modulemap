@@ -1,6 +1,0 @@
-framework module Pods_Kaidee_Assignment {
-  umbrella header "Pods-Kaidee Assignment-umbrella.h"
-
-  export *
-  module * { export * }
-}
